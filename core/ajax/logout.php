@@ -1,0 +1,5 @@
+<?php
+
+unauth_user();
+
+?> 
